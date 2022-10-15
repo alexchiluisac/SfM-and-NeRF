@@ -1,2 +1,2 @@
 # SfM-and-NeRF
-P3- Computer Vison RBE549
+P3 - SfM-and-NeRF - Computer Vison RBE549
